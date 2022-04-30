@@ -1,0 +1,28 @@
+C:/Users/tu4rwlg2x/source/repos/practiceday2/practiceday2/obj/Debug/netcoreapp3.1/practiceday2.csproj.AssemblyReference.cache
+C:/Users/tu4rwlg2x/source/repos/practiceday2/practiceday2/obj/Debug/netcoreapp3.1/practiceday2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/tu4rwlg2x/source/repos/practiceday2/practiceday2/obj/Debug/netcoreapp3.1/practiceday2.AssemblyInfoInputs.cache
+C:/Users/tu4rwlg2x/source/repos/practiceday2/practiceday2/obj/Debug/netcoreapp3.1/practiceday2.AssemblyInfo.cs
+C:/Users/tu4rwlg2x/source/repos/practiceday2/practiceday2/obj/Debug/netcoreapp3.1/practiceday2.csproj.CoreCompileInputs.cache
+C:/Users/tu4rwlg2x/source/repos/practiceday2/practiceday2/bin/Debug/netcoreapp3.1/practiceday2.exe
+C:/Users/tu4rwlg2x/source/repos/practiceday2/practiceday2/bin/Debug/netcoreapp3.1/practiceday2.deps.json
+C:/Users/tu4rwlg2x/source/repos/practiceday2/practiceday2/bin/Debug/netcoreapp3.1/practiceday2.runtimeconfig.json
+C:/Users/tu4rwlg2x/source/repos/practiceday2/practiceday2/bin/Debug/netcoreapp3.1/practiceday2.runtimeconfig.dev.json
+C:/Users/tu4rwlg2x/source/repos/practiceday2/practiceday2/bin/Debug/netcoreapp3.1/practiceday2.dll
+C:/Users/tu4rwlg2x/source/repos/practiceday2/practiceday2/bin/Debug/netcoreapp3.1/practiceday2.pdb
+C:/Users/tu4rwlg2x/source/repos/practiceday2/practiceday2/obj/Debug/netcoreapp3.1/practiceday2.dll
+C:/Users/tu4rwlg2x/source/repos/practiceday2/practiceday2/obj/Debug/netcoreapp3.1/practiceday2.pdb
+C:/Users/tu4rwlg2x/source/repos/practiceday2/practiceday2/obj/Debug/netcoreapp3.1/practiceday2.genruntimeconfig.cache
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/PracticeDay-User_Group_Student-main/practiceday2/practiceday2/bin/Debug/netcoreapp3.1/practiceday2
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/PracticeDay-User_Group_Student-main/practiceday2/practiceday2/bin/Debug/netcoreapp3.1/practiceday2.deps.json
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/PracticeDay-User_Group_Student-main/practiceday2/practiceday2/bin/Debug/netcoreapp3.1/practiceday2.runtimeconfig.json
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/PracticeDay-User_Group_Student-main/practiceday2/practiceday2/bin/Debug/netcoreapp3.1/practiceday2.runtimeconfig.dev.json
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/PracticeDay-User_Group_Student-main/practiceday2/practiceday2/bin/Debug/netcoreapp3.1/practiceday2.dll
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/PracticeDay-User_Group_Student-main/practiceday2/practiceday2/bin/Debug/netcoreapp3.1/practiceday2.pdb
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/PracticeDay-User_Group_Student-main/practiceday2/practiceday2/obj/Debug/netcoreapp3.1/practiceday2.csproj.AssemblyReference.cache
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/PracticeDay-User_Group_Student-main/practiceday2/practiceday2/obj/Debug/netcoreapp3.1/practiceday2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/PracticeDay-User_Group_Student-main/practiceday2/practiceday2/obj/Debug/netcoreapp3.1/practiceday2.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/PracticeDay-User_Group_Student-main/practiceday2/practiceday2/obj/Debug/netcoreapp3.1/practiceday2.AssemblyInfo.cs
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/PracticeDay-User_Group_Student-main/practiceday2/practiceday2/obj/Debug/netcoreapp3.1/practiceday2.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/PracticeDay-User_Group_Student-main/practiceday2/practiceday2/obj/Debug/netcoreapp3.1/practiceday2.dll
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/PracticeDay-User_Group_Student-main/practiceday2/practiceday2/obj/Debug/netcoreapp3.1/practiceday2.pdb
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/PracticeDay-User_Group_Student-main/practiceday2/practiceday2/obj/Debug/netcoreapp3.1/practiceday2.genruntimeconfig.cache
